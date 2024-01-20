@@ -1,0 +1,5 @@
+2. Is it possible in this design for an Engineer to also become a Manager?
+-  No, engineer cannot become a Manager directly.
+Because there is no provision for changing the role or type of an existing employee.
+The Engineer and Manager classes extend the Employee class, which means they inherit the properties and behavior of the Employee class,
+but they do not have a direct relationship with each other that would allow an instance of Engineer to become an instance of Manager.
